@@ -3,7 +3,7 @@ from pyspark.sql import functions
 from pyspark import SparkContext
 import re
 
-name = "Se ci mette piu' di 30 minuti killate pure <3"
+name = "Se ci mette piu' di 30 minuti non killate comunque perche' 25 sono di coda"
 
 small_file = '/srv/sample.json'
 large_file = '/srv/2015-01-08_geo_en_it_10M.plain.json'
@@ -11,7 +11,7 @@ large_file = '/srv/2015-01-08_geo_en_it_10M.plain.json'
 #one of two file above ^^^
 input_file = large_file
 
-threshold = 2
+threshold = 1000
 sample_size = 0.1
 
 def text_cleaner(text):
@@ -124,10 +124,10 @@ if __name__ == '__main__':
     #read tweets file (sample or complete) and parse text from every tweet
 #    tweets = sc.textFile(input_file).sample(False, sample_size, 42).flatMap(lambda x: parse_text(x)).countByValue()
 
-    basket = sc.textFile(input_file).sample(False, sample_size, 42).flatMap(lambda x: parse_text(x)).collect()
+    basket = sc.textFile(input_file).sample(False, sample_size, 42).map(lambda x: parse_text(x)).collect()
     print "Finita la lettura del basket...\n"
-
-    tweets = sc.parallelize(basket).countByValue()
+    print sc.parallelize(basket).take(3)
+    tweets = sc.parallelize(basket).flatMap(lambda x: x).countByValue()
 
     print "Finito il conteggio delle parole...\n"
     #print tweets.take(4)
