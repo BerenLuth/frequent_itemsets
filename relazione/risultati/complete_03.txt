@@ -1,0 +1,59 @@
+File: /srv/2015-01-08_geo_en_it_10M.plain.json
+Threshold: 2000
+Sample size: 0.1
+Finita la lettura del basket...
+
+        TOP 20 ABSOLUTE
+
+1       love: 49010
+2       just: 46679
+3       like: 42163
+4       follow: 30957
+5       don: 30400
+6       amp: 27490
+7       good: 25804
+8       know: 22369
+9       lol: 21365
+10      day: 21125
+11      time: 21120
+12      new: 20812
+13      want: 19514
+14      happy: 18860
+15      today: 18384
+16      got: 18317
+17      need: 16991
+18      people: 16686
+19      make: 15972
+20      life: 15216
+
+
+Inizio calcolo rank: 2
+lunghezza risultati: 11
+
+        TOP 20 ABSOLUTE
+
+1       (u'follow', u'love'): 7238
+2       (u'birthday', u'happy'): 3699
+3       (u'@harry_styles', u'follow'): 3576
+4       (u'new', u'watch'): 3234
+5       (u'video', u'watch'): 3210
+6       (u'@harry_styles', u'love'): 2951
+7       (u'don', u'know'): 2835
+8       (u'just', u'like'): 2389
+9       (u'don', u'like'): 2259
+10      (u'don', u'just'): 2176
+11      (u'feel', u'like'): 2027
+
+
+Inizio calcolo rank: 3
+lunghezza risultati: 2
+
+        TOP 20 ABSOLUTE
+
+1       (u'new', u'video', u'watch'): 2839
+2       (u'@harry_styles', u'follow', u'love'): 2408
+
+
+Inizio calcolo rank: 4
+lunghezza risultati: 0
+Non ci sono piu' risultati utili

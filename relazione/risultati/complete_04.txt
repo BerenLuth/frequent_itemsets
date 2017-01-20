@@ -1,0 +1,146 @@
+#NOTA#
+tempo di esecuzione: 7.9 minuti
+
+
+### main.py ###
+
+File: /srv/2015-01-08_geo_en_it_10M.plain.json
+Threshold: 1000
+Sample size: 0.1
+Finita la lettura del basket...
+
+[[u'hit', u'just', u'positive', u'breaking', u'frozentundra', u'degrees', u'news', u'maine'], [u'onedirectionfinland', u'finland', u'nwelcome', u'waiting', u'wwa', u'otra', u'1dhelsinki', u'@real_liam_payne', u'miss'], [u'@ziamsextwink', u'moreco']]
+Finito il conteggio delle parole...
+
+
+        TOP 20 ABSOLUTE
+
+1       love: 49010
+2       just: 46679
+3       like: 42163
+4       follow: 30957
+5       don: 30400
+6       amp: 27490
+7       good: 25804
+8       know: 22369
+9       lol: 21365
+10      day: 21125
+11      time: 21120
+12      new: 20812
+13      want: 19514
+14      happy: 18860
+15      today: 18384
+16      got: 18317
+17      need: 16991
+18      people: 16686
+19      make: 15972
+20      life: 15216
+
+
+Inizio calcolo rank: 2
+lunghezza risultati: 48
+
+        TOP 20 ABSOLUTE
+
+1       (u'follow', u'love'): 6696
+2       (u'@harry_styles', u'follow'): 3482
+3       (u'birthday', u'happy'): 3194
+4       (u'@harry_styles', u'love'): 2753
+5       (u'don', u'know'): 2635
+6       (u'just', u'like'): 2128
+7       (u'don', u'like'): 2068
+8       (u'don', u'just'): 2032
+9       (u'new', u'watch'): 2027
+10      (u'video', u'watch'): 2009
+11      (u'good', u'morning'): 1916
+12      (u'feel', u'like'): 1841
+13      (u'follow', u'nplease'): 1830
+14      (u'dream', u'love'): 1818
+15      (u'love', u'nplease'): 1702
+16      (u'happy', u'love'): 1584
+17      (u'love', u'make'): 1549
+18      (u'don', u'want'): 1515
+19      (u'just', u'want'): 1491
+20      (u'love', u'nyou'): 1457
+
+
+Inizio calcolo rank: 3
+lunghezza risultati: 15
+
+        TOP 20 ABSOLUTE
+
+1       (u'@harry_styles', u'follow', u'love'): 2203
+2       (u'new', u'video', u'watch'): 1694
+3       (u'just', u'photo', u'posted'): 1355
+4       (u'follow', u'love', u'nplease'): 1297
+5       (u'@fifthharmony', u'prize', u'win'): 1267
+6       (u'@fifthharmony', u'entering', u'prize'): 1221
+7       (u'@fifthharmony', u'daily', u'prize'): 1220
+8       (u'@fifthharmony', u'fanuary', u'prize'): 1217
+9       (u'barometer', u'temperature', u'today'): 1197
+10      (u'@fifthharmony', u'harmony', u'prize'): 1192
+11      (u'@fifthharmony', u'fifth', u'prize'): 1191
+12      (u'dream', u'follow', u'love'): 1181
+13      (u'@themattespinosa', u'video', u'watch'): 1133
+14      (u'barometer', u'humidity', u'temperature'): 1125
+15      (u'barometer', u'rain', u'temperature'): 1061
+
+
+Inizio calcolo rank: 4
+lunghezza risultati: 7
+
+        TOP 20 ABSOLUTE
+
+1       (u'@fifthharmony', u'daily', u'prize', u'win'): 1266
+2       (u'@fifthharmony', u'entering', u'prize', u'win'): 1263
+3       (u'@fifthharmony', u'fanuary', u'prize', u'win'): 1259
+4       (u'@fifthharmony', u'harmony', u'prize', u'win'): 1234
+5       (u'@fifthharmony', u'fifth', u'prize', u'win'): 1233
+6       (u'barometer', u'humidity', u'temperature', u'today'): 1191
+7       (u'@themattespinosa', u'new', u'video', u'watch'): 1045
+
+
+Inizio calcolo rank: 5
+lunghezza risultati: 6
+
+        TOP 20 ABSOLUTE
+
+1       (u'@fifthharmony', u'daily', u'entering', u'prize', u'win'): 1266
+2       (u'@fifthharmony', u'daily', u'fanuary', u'prize', u'win'): 1216
+3       (u'@fifthharmony', u'daily', u'harmony', u'prize', u'win'): 1193
+4       (u'@fifthharmony', u'daily', u'fifth', u'prize', u'win'): 1192
+5       (u'barometer', u'humidity', u'temperature', u'today', u'wind'): 1191
+6       (u'barometer', u'humidity', u'rain', u'temperature', u'today'): 1191
+
+
+Inizio calcolo rank: 6
+lunghezza risultati: 4
+
+        TOP 20 ABSOLUTE
+
+1       (u'@fifthharmony', u'daily', u'entering', u'harmony', u'prize', u'win'): 1239
+2       (u'@fifthharmony', u'daily', u'fifth', u'harmony', u'prize', u'win'): 1191
+3       (u'barometer', u'humidity', u'rain', u'temperature', u'today', u'wind'): 1191
+4       (u'@fifthharmony', u'daily', u'fanuary', u'harmony', u'prize', u'win'): 1189
+
+
+Inizio calcolo rank: 7
+lunghezza risultati: 2
+
+        TOP 20 ABSOLUTE
+
+1       (u'@fifthharmony', u'daily', u'entering', u'fifth', u'harmony', u'prize', u'win'): 1238
+2       (u'@fifthharmony', u'daily', u'entering', u'fanuary', u'harmony', u'prize', u'win'): 1236
+
+
+Inizio calcolo rank: 8
+lunghezza risultati: 1
+
+        TOP 20 ABSOLUTE
+
+1       (u'@fifthharmony', u'daily', u'entering', u'fanuary', u'fifth', u'harmony', u'prize', u'win'): 1235
+
+
+Inizio calcolo rank: 9
+lunghezza risultati: 0
+Non ci sono piu' risultati utili
