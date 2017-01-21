@@ -37,9 +37,9 @@ def parse_text(tweet):
         return stopwords_remover(duplicate_remover(res.split()))
 
 
-
-spark = SparkSession.builder.appName("testFPGrowth").getOrCreate()
-rdd_tweets = spark.textFile(large_file).sample(False, sample_size, 42).map(lambda x: parse_text(x))
+sc = SparkContext(appName="testFPGrowth")
+stopwords = open('/home/e01/stopwords.txt','r').read().splitlines()
+rdd_tweets = sc.textFile(large_file).sample(False, sample_size, 42).map(lambda $
 
 model = FPGrowth.train(rdd_tweets, minSupport=0.02, numPartitions=1000)
 result = model.freqItemsets().collect()
