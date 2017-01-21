@@ -82,9 +82,33 @@ NOTA: le funzioni per sinteticità mostrano i primi 20 risultati ordinati per fr
   \end{center}
 \end{figure}
 
-\newpage
+
+
 \paragraph{Commenti}
 Per questo esperimento è stato scelto un threshold molto basso(lo 0.001) per permettere di ottenere anche un buon numero di tuple di rango superiore al 2.\\
 Nel corso di vari testi sia con il file maggiore sia con quello minore abbiamo notato che alcune particolari tuple molto lunghe compaiono un numero molto elevato di volte: questo fenomeno succede se un tweet viene retwettato un numero di volte superiore al threshold.
+\newpage
+\section{Confronto}
+\begin{figure}[h]
+  \begin{center}
+  \includegraphics[width=190px]{sample1.jpg}
+  \end{center}
+\end{figure}
+
+
+\begin{figure}[h]
+  \begin{center}
+  \includegraphics[width=190px]{samplefp}
+  \end{center}
+\end{figure}
+
+
+
+\paragraph{Risultati} La fase di confronto è stata eseguita con sul file da diecimila tweet e concentriamo la nostra attenzione fino al rango due dei risultati trovati dal nostro software.
+Si può notare che le parole frequenti individuate (escluse stopwords) sono le stesse, anche sono un valore leggermente inferiore dovuto al sistema di pulizia eseguito sulla stringa. 
+Il nostro software è leggermente più veloce (circa 2-3 secondi) rispetto a fpgrowth con il file piccolo.
+
+
+
 
 \end{document}
