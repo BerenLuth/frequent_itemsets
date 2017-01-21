@@ -9,7 +9,6 @@ Threshold: 1000
 Sample size: 0.1
 Finita la lettura del basket...
 
-[[u'hit', u'just', u'positive', u'breaking', u'frozentundra', u'degrees', u'news', u'maine'], [u'onedirectionfinland', u'finland', u'nwelcome', u'waiting', u'wwa', u'otra', u'1dhelsinki', u'@real_liam_payne', u'miss'], [u'@ziamsextwink', u'moreco']]
 Finito il conteggio delle parole...
 
 
