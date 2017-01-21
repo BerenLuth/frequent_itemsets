@@ -1,0 +1,383 @@
+
+### main.py ###
+
+File: /srv/sample.json
+Threshold: 2
+Sample size: 1
+Finita la lettura del basket...
+
+[[u'anthem', u'national', u'stand'], [u'rumi', u'funzen', u'center', u'gravity', u'music', u'musical', u'fact', u'silent'], [u'hit', u'just', u'positive', u'breaking', u'frozentundra', u'degrees', u'news', u'maine']]
+Finito il conteggio delle parole...
+
+
+        TOP 20 ABSOLUTE
+
+1       love: 500
+2       just: 462
+3       follow: 428
+4       like: 392
+5       don: 321
+6       amp: 283
+7       new: 246
+8       today: 243
+9       good: 239
+10      day: 233
+11      happy: 229
+12      know: 225
+13      want: 214
+14      lol: 214
+15      world: 200
+16      @madisonellebeer: 190
+17      people: 186
+18      time: 183
+19      thanks: 182
+20      got: 174
+
+
+Inizio calcolo rank: 2
+lunghezza risultati: 2415
+
+        TOP 20 ABSOLUTE
+
+1       (u'@madisonellebeer', u'follow'): 110
+2       (u'@madisonellebeer', u'nplease'): 99
+3       (u'follow', u'love'): 72
+4       (u'@madisonellebeer', u'ignore'): 65
+5       (u'@madisonellebeer', u'nyou'): 65
+6       (u'@madisonellebeer', u'nilysfm'): 65
+7       (u'@madisonellebeer', u'ncan'): 65
+8       (u'@madisonellebeer', u'world'): 65
+9       (u'@madisonellebeer', u'nmy'): 65
+10      (u'@madisonellebeer', u'ndon'): 65
+11      (u'@feriafitur', u'retweet'): 58
+12      (u'@feriafitur', u'world'): 58
+13      (u'@feriafitur', u'travelblogger'): 58
+14      (u'2015', u'@feriafitur'): 58
+15      (u'@feriafitur', u'vote'): 58
+16      (u'@feriafitur', u'nelsoncarvalheiro'): 58
+17      (u'@justinbieber', u'love'): 57
+18      (u'happy', u'song'): 52
+19      (u'song', u'year'): 50
+20      (u'believe', u'song'): 49
+
+
+Inizio calcolo rank: 3
+lunghezza risultati: 955
+
+        TOP 20 ABSOLUTE
+
+1       (u'@madisonellebeer', u'follow', u'nplease'): 84
+2       (u'@madisonellebeer', u'nplease', u'world'): 65
+3       (u'@madisonellebeer', u'nilysfm', u'nplease'): 65
+4       (u'@madisonellebeer', u'nmy', u'nplease'): 65
+5       (u'@madisonellebeer', u'nplease', u'nyou'): 65
+6       (u'@madisonellebeer', u'ncan', u'nplease'): 65
+7       (u'@madisonellebeer', u'ndon', u'nplease'): 65
+8       (u'@madisonellebeer', u'ignore', u'nplease'): 65
+9       (u'2015', u'@feriafitur', u'travelblogger'): 57
+10      (u'happy', u'song', u'support'): 52
+11      (u'@feriafitur', u'travelblogger', u'world'): 50
+12      (u'believe', u'song', u'support'): 49
+13      (u'@feriafitur', u'nelsoncarvalheiro', u'travelblogger'): 49
+14      (u'@feriafitur', u'retweet', u'travelblogger'): 49
+15      (u'follow', u'song', u'support'): 49
+16      (u'dreams', u'song', u'support'): 49
+17      (u'song', u'support', u'year'): 49
+18      (u'@feriafitur', u'travelblogger', u'vote'): 49
+19      (u'song', u'support', u'thanks'): 49
+20      (u'new', u'song', u'support'): 49
+
+
+Inizio calcolo rank: 4
+lunghezza risultati: 653
+
+        TOP 20 ABSOLUTE
+
+1       (u'@madisonellebeer', u'ncan', u'nplease', u'nyou'): 65
+2       (u'@madisonellebeer', u'ncan', u'nplease', u'world'): 65
+3       (u'@madisonellebeer', u'ncan', u'nmy', u'nplease'): 65
+4       (u'@madisonellebeer', u'follow', u'ncan', u'nplease'): 65
+5       (u'@madisonellebeer', u'ncan', u'ndon', u'nplease'): 65
+6       (u'@madisonellebeer', u'ncan', u'nilysfm', u'nplease'): 65
+7       (u'@madisonellebeer', u'ignore', u'ncan', u'nplease'): 65
+8       (u'2015', u'@feriafitur', u'nelsoncarvalheiro', u'travelblogger'): 57
+9       (u'2015', u'@feriafitur', u'travelblogger', u'world'): 57
+10      (u'2015', u'@feriafitur', u'retweet', u'travelblogger'): 56
+11      (u'2015', u'@feriafitur', u'travelblogger', u'vote'): 56
+12      (u'2015', u'@feriafitur', u'fitur', u'travelblogger'): 56
+13      (u'happy', u'song', u'support', u'year'): 52
+14      (u'dreams', u'song', u'support', u'year'): 49
+15      (u'believe', u'song', u'support', u'year'): 49
+16      (u'song', u'support', u'thanks', u'year'): 49
+17      (u'follow', u'song', u'support', u'year'): 49
+18      (u'new', u'song', u'support', u'year'): 49
+19      (u'estar', u'girls', u'mateo', u'merese'): 31
+20      (u'a2015', u'girls', u'mateo', u'merese'): 31
+
+
+Inizio calcolo rank: 5
+lunghezza risultati: 503
+
+        TOP 20 ABSOLUTE
+
+1       (u'@madisonellebeer', u'ignore', u'ncan', u'ndon', u'nplease'): 65
+2       (u'@madisonellebeer', u'ncan', u'ndon', u'nplease', u'nyou'): 65
+3       (u'@madisonellebeer', u'ncan', u'ndon', u'nilysfm', u'nplease'): 65
+4       (u'@madisonellebeer', u'ncan', u'ndon', u'nmy', u'nplease'): 65
+5       (u'@madisonellebeer', u'ncan', u'ndon', u'nplease', u'world'): 65
+6       (u'@madisonellebeer', u'follow', u'ncan', u'ndon', u'nplease'): 65
+7       (u'2015', u'@feriafitur', u'retweet', u'travelblogger', u'world'): 57
+8       (u'2015', u'@feriafitur', u'nelsoncarvalheiro', u'travelblogger', u'world'): 56
+9       (u'2015', u'@feriafitur', u'travelblogger', u'vote', u'world'): 55
+10      (u'2015', u'@feriafitur', u'fitur', u'travelblogger', u'world'): 55
+11      (u'new', u'song', u'support', u'thanks', u'year'): 49
+12      (u'happy', u'new', u'song', u'support', u'year'): 47
+13      (u'dreams', u'new', u'song', u'support', u'year'): 44
+14      (u'follow', u'new', u'song', u'support', u'year'): 44
+15      (u'believe', u'new', u'song', u'support', u'year'): 44
+16      (u'a2015', u'estar', u'girls', u'mateo', u'merese'): 31
+17      (u'abraham', u'estar', u'girls', u'mateo', u'merese'): 31
+18      (u'ask', u'humbly', u'idol', u'killing', u'notice'): 27
+19      (u'@real_liam_payne', u'ask', u'humbly', u'killing', u'notice'): 27
+20      (u'ask', u'humbly', u'killing', u'notice', u'stealing'): 27
+
+
+Inizio calcolo rank: 6
+lunghezza risultati: 353
+
+        TOP 20 ABSOLUTE
+
+1       (u'@madisonellebeer', u'ncan', u'ndon', u'nilysfm', u'nmy', u'nplease'): 65
+2       (u'@madisonellebeer', u'ignore', u'ncan', u'ndon', u'nmy', u'nplease'): 65
+3       (u'@madisonellebeer', u'ncan', u'ndon', u'nmy', u'nplease', u'world'): 65
+4       (u'@madisonellebeer', u'follow', u'ncan', u'ndon', u'nmy', u'nplease'): 65
+5       (u'@madisonellebeer', u'ncan', u'ndon', u'nmy', u'nplease', u'nyou'): 65
+6       (u'2015', u'@feriafitur', u'retweet', u'travelblogger', u'vote', u'world'): 57
+7       (u'2015', u'@feriafitur', u'nelsoncarvalheiro', u'travelblogger', u'vote', u'world'): 56
+8       (u'2015', u'@feriafitur', u'fitur', u'travelblogger', u'vote', u'world'): 55
+9       (u'happy', u'new', u'song', u'support', u'thanks', u'year'): 51
+10      (u'follow', u'new', u'song', u'support', u'thanks', u'year'): 49
+11      (u'dreams', u'new', u'song', u'support', u'thanks', u'year'): 48
+12      (u'believe', u'new', u'song', u'support', u'thanks', u'year'): 48
+13      (u'a2015', u'abraham', u'estar', u'girls', u'mateo', u'merese'): 31
+14      (u'@real_liam_payne', u'ask', u'humbly', u'idol', u'killing', u'notice'): 27
+15      (u'@real_liam_payne', u'ask', u'humbly', u'killing', u'notice', u'stealing'): 27
+16      (u'heavy', u'indian', u'nnew', u'pic', u'review', u'vendor'): 22
+17      (u'amazon', u'cashback', u'flat', u'jabong', u'nupto15', u'of10'): 21
+18      (u'@justinbieber', u'away', u'don', u'follow', u'knowing', u'love'): 20
+19      (u'@justinbieber', u'away', u'follow', u'knowing', u'love', u'miles'): 20
+20      (u'@justinbieber', u'away', u'follow', u'knowing', u'love', u'person'): 20
+
+
+Inizio calcolo rank: 7
+lunghezza risultati: 260
+
+        TOP 20 ABSOLUTE
+
+1       (u'@madisonellebeer', u'ignore', u'ncan', u'ndon', u'nmy', u'nplease', u'world'): 65
+2       (u'@madisonellebeer', u'ignore', u'ncan', u'ndon', u'nmy', u'nplease', u'nyou'): 65
+3       (u'@madisonellebeer', u'follow', u'ignore', u'ncan', u'ndon', u'nmy', u'nplease'): 65
+4       (u'@madisonellebeer', u'ignore', u'ncan', u'ndon', u'nilysfm', u'nmy', u'nplease'): 65
+5       (u'2015', u'@feriafitur', u'fitur', u'retweet', u'travelblogger', u'vote', u'world'): 57
+6       (u'2015', u'@feriafitur', u'fitur', u'nelsoncarvalheiro', u'travelblogger', u'vote', u'world'): 56
+7       (u'follow', u'happy', u'new', u'song', u'support', u'thanks', u'year'): 52
+8       (u'believe', u'follow', u'new', u'song', u'support', u'thanks', u'year'): 49
+9       (u'dreams', u'follow', u'new', u'song', u'support', u'thanks', u'year'): 49
+10      (u'@real_liam_payne', u'ask', u'humbly', u'idol', u'killing', u'notice', u'stealing'): 27
+11      (u'amazon', u'cashback', u'flat', u'jabong', u'myntra', u'nupto15', u'of10'): 21
+12      (u'@justinbieber', u'away', u'don', u'follow', u'know', u'knowing', u'love'): 20
+13      (u'amazon', u'flat', u'jabong', u'myntra', u'nupto15', u'of10', u'snapdeal'): 20
+14      (u'@madisonellebeer', u'dream', u'follow', u'love', u'nhi', u'nplease', u'nrealize'): 19
+15      (u'amazon', u'flat', u'flipkart', u'jabong', u'myntra', u'nupto15', u'of10'): 19
+16      (u'@matthunter123', u'feeling', u'hunter', u'letters', u'limit', u'love', u'matt'): 19
+17      (u'@matthunter123', u'hunter', u'letters', u'limit', u'love', u'matt', u'words'): 19
+18      (u'@madisonellebeer', u'dream', u'important', u'love', u'nhi', u'nplease', u'nrealize'): 19
+19      (u'@madisonellebeer', u'dream', u'love', u'nhi', u'nplease', u'nrealize', u'nyour'): 19
+20      (u'amazon', u'flat', u'jabong', u'myntra', u'nshop', u'nupto15', u'of10'): 19
+
+
+Inizio calcolo rank: 8
+lunghezza risultati: 176
+
+        TOP 20 ABSOLUTE
+
+1       (u'@madisonellebeer', u'ignore', u'ncan', u'ndon', u'nilysfm', u'nmy', u'nplease', u'nyou'): 65
+2       (u'@madisonellebeer', u'ignore', u'ncan', u'ndon', u'nmy', u'nplease', u'nyou', u'world'): 65
+3       (u'@madisonellebeer', u'follow', u'ignore', u'ncan', u'ndon', u'nmy', u'nplease', u'nyou'): 65
+4       (u'2015', u'@feriafitur', u'fitur', u'nelsoncarvalheiro', u'retweet', u'travelblogger', u'vote', u'world'): 58
+5       (u'believe', u'follow', u'happy', u'new', u'song', u'support', u'thanks', u'year'): 52
+6       (u'believe', u'dreams', u'follow', u'new', u'song', u'support', u'thanks', u'year'): 49
+7       (u'amazon', u'cashback', u'flat', u'jabong', u'myntra', u'nshop', u'nupto15', u'of10'): 21
+8       (u'amazon', u'flat', u'jabong', u'myntra', u'nshop', u'nupto15', u'of10', u'snapdeal'): 20
+9       (u'@justinbieber', u'away', u'don', u'follow', u'know', u'knowing', u'love', u'person'): 20
+10      (u'@justinbieber', u'away', u'don', u'follow', u'know', u'knowing', u'love', u'miles'): 20
+11      (u'@matthunter123', u'feeling', u'hunter', u'letters', u'limit', u'love', u'matt', u'words'): 19
+12      (u'amazon', u'flat', u'flipkart', u'jabong', u'myntra', u'nshop', u'nupto15', u'of10'): 19
+13      (u'@madisonellebeer', u'dream', u'important', u'love', u'nhi', u'nplease', u'nrealize', u'nyour'): 19
+14      (u'@madisonellebeer', u'dream', u'love', u'nhi', u'nplease', u'nrealize', u'nyour', u'princess'): 19
+15      (u'@madisonellebeer', u'dream', u'follow', u'love', u'nhi', u'nplease', u'nrealize', u'nyour'): 19
+16      (u'@real_liam_payne', u'batman', u'big', u'dream', u'follow', u'lifes', u'nit', u'superhuman'): 18
+17      (u'@real_liam_payne', u'batman', u'big', u'dream', u'follow', u'lifes', u'saved', u'superhuman'): 18
+18      (u'@madisonellebeer', u'brazil', u'dream', u'mad', u'madison', u'nfan', u'nhi', u'nplease'): 15
+19      (u'@madisonellebeer', u'brazil', u'mad', u'madison', u'nfan', u'nfollow', u'nhi', u'nplease'): 15
+20      (u'@madisonellebeer', u'brazil', u'mad', u'madison', u'nfan', u'nhi', u'nplease', u'realize'): 15
+
+
+Inizio calcolo rank: 9
+lunghezza risultati: 120
+
+        TOP 20 ABSOLUTE
+
+1       (u'@madisonellebeer', u'follow', u'ignore', u'ncan', u'ndon', u'nmy', u'nplease', u'nyou', u'world'): 65
+2       (u'@madisonellebeer', u'follow', u'ignore', u'ncan', u'ndon', u'nilysfm', u'nmy', u'nplease', u'nyou'): 65
+3       (u'believe', u'dreams', u'follow', u'happy', u'new', u'song', u'support', u'thanks', u'year'): 52
+4       (u'amazon', u'cashback', u'flat', u'jabong', u'myntra', u'nshop', u'nupto15', u'of10', u'snapdeal'): 22
+5       (u'amazon', u'cashback', u'flat', u'flipkart', u'jabong', u'myntra', u'nshop', u'nupto15', u'of10'): 21
+6       (u'@justinbieber', u'away', u'don', u'follow', u'know', u'knowing', u'love', u'miles', u'person'): 20
+7       (u'@madisonellebeer', u'dream', u'follow', u'important', u'love', u'nhi', u'nplease', u'nrealize', u'nyour'): 19
+8       (u'@madisonellebeer', u'dream', u'important', u'love', u'nhi', u'nplease', u'nrealize', u'nyour', u'princess'): 19
+9       (u'@real_liam_payne', u'batman', u'big', u'dream', u'follow', u'lifes', u'nit', u'saved', u'superhuman'): 18
+10      (u'@madisonellebeer', u'brazil', u'mad', u'madison', u'nfan', u'nfollow', u'nhi', u'nplease', u'realize'): 15
+11      (u'@madisonellebeer', u'brazil', u'dream', u'mad', u'madison', u'nfan', u'nfollow', u'nhi', u'nplease'): 15
+12      (u'@harry_styles', u'better', u'dream', u'hello', u'make', u'nand', u'nplease', u'sunshine', u'true'): 13
+13      (u'@harry_styles', u'better', u'dream', u'ily', u'make', u'nand', u'nplease', u'sunshine', u'true'): 13
+14      (u'@harry_styles', u'better', u'come', u'dream', u'make', u'nand', u'nplease', u'sunshine', u'true'): 13
+15      (u'@harry_styles', u'better', u'dream', u'follow', u'make', u'nand', u'nplease', u'sunshine', u'true'): 13
+16      (u'@harry_styles', u'better', u'dream', u'make', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+17      (u'@harry_styles', u'better', u'dream', u'make', u'n@lethargictommo', u'nand', u'nplease', u'sunshine', u'true'): 13
+18      (u'@alejandradextre', u'america', u'fantastically', u'follow', u'nhope', u'nlatin', u'nlove', u'npls', u'otrat'): 12
+19      (u'@alejandradextre', u'amp', u'fantastically', u'follow', u'nhope', u'nlatin', u'nlove', u'npls', u'otrat'): 12
+20      (u'14th', u'@harry_styles', u'birthday', u'follow', u'nis', u'nlike', u'nlove', u'nmy', u'number'): 11
+
+
+Inizio calcolo rank: 10
+lunghezza risultati: 75
+
+        TOP 20 ABSOLUTE
+
+1       (u'@madisonellebeer', u'follow', u'ignore', u'ncan', u'ndon', u'nilysfm', u'nmy', u'nplease', u'nyou', u'world'): 65
+2       (u'amazon', u'cashback', u'flat', u'flipkart', u'jabong', u'myntra', u'nshop', u'nupto15', u'of10', u'snapdeal'): 22
+3       (u'@madisonellebeer', u'dream', u'follow', u'important', u'love', u'nhi', u'nplease', u'nrealize', u'nyour', u'princess'): 19
+4       (u'@madisonellebeer', u'brazil', u'dream', u'mad', u'madison', u'nfan', u'nfollow', u'nhi', u'nplease', u'realize'): 15
+5       (u'@harry_styles', u'better', u'dream', u'hello', u'make', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+6       (u'@harry_styles', u'better', u'dream', u'follow', u'make', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+7       (u'@harry_styles', u'better', u'dream', u'ily', u'make', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+8       (u'@harry_styles', u'better', u'dream', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+9       (u'@harry_styles', u'better', u'come', u'dream', u'make', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+10      (u'@alejandradextre', u'amp', u'fantastically', u'follow', u'nhope', u'nlatin', u'nlove', u'npls', u'otrat', u'screams'): 12
+11      (u'@alejandradextre', u'america', u'fantastically', u'follow', u'nhope', u'nlatin', u'nlove', u'npls', u'otrat', u'screams'): 12
+12      (u'14th', u'@harry_styles', u'amp', u'birthday', u'follow', u'nis', u'nlike', u'nlove', u'nmy', u'number'): 11
+13      (u'@alejandradextre', u'@louis_tomlinson', u'fantastically', u'follow', u'nhope', u'nlatin', u'nlove', u'npls', u'otrat', u'screams'): 11
+14      (u'14th', u'@harry_styles', u'birthday', u'follow', u'january', u'nis', u'nlike', u'nlove', u'nmy', u'number'): 11
+15      (u'14th', u'@harry_styles', u'birthday', u'follow', u'gift', u'nis', u'nlike', u'nlove', u'nmy', u'number'): 11
+16      (u'@john', u'@shots', u'app', u'biggest', u'dream', u'follow', u'happy', u'love', u'make', u'pls'): 7
+17      (u'@justinbieber', u'baby', u'belieber', u'follow', u'getting', u'jdb', u'love', u'smile', u'songs', u'thank'): 7
+18      (u'@john', u'@shots', u'app', u'best', u'biggest', u'dream', u'follow', u'happy', u'love', u'pls'): 7
+19      (u'@justinbieber', u'baby', u'belieber', u'follow', u'getting', u'ibiza', u'jdb', u'love', u'smile', u'thank'): 7
+20      (u'@georgeujworld', u'big', u'dream', u'fan', u'hey', u'love', u'nrealize', u'nyou', u'pls', u'world'): 7
+
+
+Inizio calcolo rank: 11
+lunghezza risultati: 46
+
+        TOP 20 ABSOLUTE
+
+1       (u'@harry_styles', u'better', u'dream', u'hello', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+2       (u'@harry_styles', u'better', u'dream', u'follow', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+3       (u'@harry_styles', u'better', u'come', u'dream', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+4       (u'@harry_styles', u'better', u'dream', u'ily', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+5       (u'@alejandradextre', u'@louis_tomlinson', u'america', u'fantastically', u'follow', u'nhope', u'nlatin', u'nlove', u'npls', u'otrat', u'screams'): 12
+6       (u'@alejandradextre', u'@louis_tomlinson', u'amp', u'fantastically', u'follow', u'nhope', u'nlatin', u'nlove', u'npls', u'otrat', u'screams'): 12
+7       (u'14th', u'@harry_styles', u'amp', u'birthday', u'follow', u'january', u'nis', u'nlike', u'nlove', u'nmy', u'number'): 11
+8       (u'14th', u'@harry_styles', u'amp', u'birthday', u'follow', u'gift', u'nis', u'nlike', u'nlove', u'nmy', u'number'): 11
+9       (u'@john', u'@shots', u'app', u'best', u'biggest', u'dream', u'follow', u'happy', u'love', u'make', u'pls'): 7
+10      (u'@justinbieber', u'baby', u'belieber', u'follow', u'getting', u'ibiza', u'jdb', u'love', u'smile', u'songs', u'thank'): 7
+11      (u'@harry_styles', u'add', u'babe', u'dictionary', u'harry', u'ilysm', u'life', u'like', u'meaning', u'nfollow', u'nyou'): 6
+12      (u'amp', u'blu', u'brilliant', u'dvd', u'gaby', u'girls', u'hilariously', u'hoffmann', u'jan', u'ray', u'star'): 5
+13      (u'blu', u'brilliant', u'dvd', u'gaby', u'girls', u'hilariously', u'hoffmann', u'jan', u'ray', u'star', u'transparent'): 5
+14      (u'blu', u'brilliant', u'dvd', u'gaby', u'girls', u'hilariously', u'hoffmann', u'jan', u'obviouschild', u'ray', u'star'): 4
+15      (u'0000', u'2015', u'composite', u'date', u'flood', u'gmt', u'jan', u'map', u'modis', u'tile', u'utc'): 3
+16      (u'@justinbieber', u'baby', u'belieber', u'follow', u'getting', u'jdb', u'love', u'nx544', u'smile', u'songs', u'thank'): 2
+17      (u'30th', u'american', u'course', u'dinner', u'evening', u'fri', u'gourmet', u'jan', u'lined', u'match', u'north'): 2
+18      (u'barometer', u'hpa', u'humidity', u'mph', u'quickly', u'rain', u'rising', u'temperature', u'today', u'wind', u'wsw'): 2
+19      (u'act', u'ass', u'better', u'foh', u'fucking', u'like', u'owe', u'right', u'somebody', u'start', u'txt'): 2
+20      (u'amp', u'blu', u'brilliant', u'gaby', u'girls', u'hilariously', u'hoffmann', u'jan', u'ray', u'star', u'transparent'): 2
+
+
+Inizio calcolo rank: 12
+lunghezza risultati: 23
+
+        TOP 20 ABSOLUTE
+
+1       (u'@harry_styles', u'better', u'come', u'dream', u'follow', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+2       (u'@alejandradextre', u'@louis_tomlinson', u'america', u'amp', u'fantastically', u'follow', u'nhope', u'nlatin', u'nlove', u'npls', u'otrat', u'screams'): 13
+3       (u'@harry_styles', u'better', u'come', u'dream', u'hello', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+4       (u'@harry_styles', u'better', u'come', u'dream', u'ily', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+5       (u'14th', u'@harry_styles', u'amp', u'birthday', u'follow', u'gift', u'january', u'nis', u'nlike', u'nlove', u'nmy', u'number'): 11
+6       (u'amp', u'blu', u'brilliant', u'dvd', u'gaby', u'girls', u'hilariously', u'hoffmann', u'jan', u'ray', u'star', u'transparent'): 6
+7       (u'amp', u'blu', u'brilliant', u'dvd', u'gaby', u'girls', u'hilariously', u'hoffmann', u'jan', u'obviouschild', u'ray', u'star'): 5
+8       (u'0000', u'008', u'2015', u'composite', u'date', u'flood', u'gmt', u'jan', u'map', u'modis', u'tile', u'utc'): 3
+9       (u'1030', u'ave', u'gmt', u'gust', u'hourly', u'hpa', u'humidity', u'mph', u'pressure', u'rain', u'rising', u'temperature'): 2
+10      (u'best', u'buys', u'car', u'daddy', u'happen', u'jail', u'know', u'lol', u'making', u'new', u'shit', u'spoiled'): 2
+11      (u'0000', u'008', u'2015', u'composite', u'date', u'flood', u'gmt', u'jan', u'map', u'modis', u'thu', u'tile'): 2
+12      (u'aiyers', u'comments', u'congress', u'election', u'general', u'god', u'lost', u'mani', u'paris', u'seeing', u'shankar', u'thank'): 2
+13      (u'bellezza', u'carattere', u'che', u'del', u'hai', u'ihihih', u'mio', u'niente', u'non', u'prendi', u'preso', u'spero'): 2
+14      (u'1030', u'ave', u'gmt', u'gust', u'hourly', u'hpa', u'humidity', u'mph', u'quickly', u'rain', u'rising', u'temperature'): 2
+15      (u'1030', u'ave', u'gmt', u'gust', u'hourly', u'hpa', u'mph', u'pressure', u'quickly', u'rain', u'rising', u'temperature'): 2
+16      (u'0000', u'008', u'2015', u'composite', u'date', u'flood', u'gmt', u'jan', u'map', u'modis', u'server', u'tile'): 2
+17      (u'aiyers', u'comments', u'congress', u'election', u'general', u'god', u'lost', u'paris', u'seeing', u'shankar', u'terror', u'thank'): 2
+18      (u'0000', u'008', u'2015', u'composite', u'date', u'flood', u'gmt', u'jan', u'map', u'modis', u'processed', u'tile'): 2
+19      (u'30th', u'american', u'course', u'dinner', u'evening', u'fri', u'gourmet', u'jan', u'lined', u'match', u'north', u'wine'): 2
+20      (u'3min', u'evening', u'friendly', u'invite', u'mobile', u'nice', u'phd', u'servce', u'study', u'survey', u'tflbusalerts', u'twitr'): 2
+
+
+Inizio calcolo rank: 13
+lunghezza risultati: 11
+
+        TOP 20 ABSOLUTE
+
+1       (u'@harry_styles', u'better', u'come', u'dream', u'follow', u'hello', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+2       (u'@harry_styles', u'better', u'come', u'dream', u'follow', u'ily', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+3       (u'amp', u'blu', u'brilliant', u'dvd', u'gaby', u'girls', u'hilariously', u'hoffmann', u'jan', u'obviouschild', u'ray', u'star', u'transparent'): 6
+4       (u'0000', u'008', u'2015', u'composite', u'date', u'day', u'flood', u'gmt', u'jan', u'map', u'modis', u'tile', u'utc'): 3
+5       (u'1030', u'ave', u'gmt', u'gust', u'hourly', u'hpa', u'humidity', u'mph', u'quickly', u'rain', u'rising', u'temperature', u'wind'): 2
+6       (u'1030', u'ave', u'gmt', u'gust', u'hourly', u'hpa', u'humidity', u'mph', u'pressure', u'quickly', u'rain', u'rising', u'temperature'): 2
+7       (u'0000', u'008', u'2015', u'composite', u'date', u'day', u'flood', u'gmt', u'jan', u'map', u'modis', u'processed', u'tile'): 2
+8       (u'0000', u'008', u'2015', u'composite', u'date', u'day', u'flood', u'gmt', u'jan', u'map', u'modis', u'server', u'tile'): 2
+9       (u'0000', u'008', u'2015', u'composite', u'date', u'day', u'flood', u'gmt', u'jan', u'map', u'modis', u'thu', u'tile'): 2
+10      (u'aiyers', u'comments', u'congress', u'election', u'general', u'god', u'lost', u'mani', u'paris', u'seeing', u'shankar', u'terror', u'thank'): 2
+11      (u'1030', u'ave', u'gmt', u'gust', u'hourly', u'hpa', u'humidity', u'mph', u'pressure', u'rain', u'rising', u'temperature', u'wind'): 2
+
+
+Inizio calcolo rank: 14
+lunghezza risultati: 5
+
+        TOP 20 ABSOLUTE
+
+1       (u'@harry_styles', u'better', u'come', u'dream', u'follow', u'hello', u'ily', u'make', u'n@lethargictommo', u'nand', u'nplease', u'person', u'sunshine', u'true'): 13
+2       (u'0000', u'008', u'2015', u'composite', u'date', u'day', u'flood', u'gmt', u'jan', u'map', u'modis', u'thu', u'tile', u'utc'): 3
+3       (u'0000', u'008', u'2015', u'composite', u'date', u'day', u'flood', u'gmt', u'jan', u'map', u'modis', u'server', u'tile', u'utc'): 3
+4       (u'0000', u'008', u'2015', u'composite', u'date', u'day', u'flood', u'gmt', u'jan', u'map', u'modis', u'processed', u'tile', u'utc'): 3
+5       (u'1030', u'ave', u'gmt', u'gust', u'hourly', u'hpa', u'humidity', u'mph', u'pressure', u'quickly', u'rain', u'rising', u'temperature', u'wind'): 2
+
+
+Inizio calcolo rank: 15
+lunghezza risultati: 2
+
+        TOP 20 ABSOLUTE
+
+1       (u'0000', u'008', u'2015', u'composite', u'date', u'day', u'flood', u'gmt', u'jan', u'map', u'modis', u'processed', u'thu', u'tile', u'utc'): 3
+2       (u'0000', u'008', u'2015', u'composite', u'date', u'day', u'flood', u'gmt', u'jan', u'map', u'modis', u'server', u'thu', u'tile', u'utc'): 3
+
+
+Inizio calcolo rank: 16
+lunghezza risultati: 1
+
+        TOP 20 ABSOLUTE
+
+1       (u'0000', u'008', u'2015', u'composite', u'date', u'day', u'flood', u'gmt', u'jan', u'map', u'modis', u'processed', u'server', u'thu', u'tile', u'utc'): 3
+
+
+Inizio calcolo rank: 17
+lunghezza risultati: 0
+Non ci sono piu' risultati utili
