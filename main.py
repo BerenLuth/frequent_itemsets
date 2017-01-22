@@ -70,6 +70,7 @@ def alphabet_ordered(a, b, i):
         temp.sort()
         #ritorno un'unica tupla in ordine alfabetico
         return tuple(temp)
+
 #A partire da un testo di un tweet genera le tuple i-esime
 #in base alla lunghezza di dict_list
 def nested_loop_rank(text):
@@ -125,7 +126,7 @@ if __name__ == '__main__':
 
     #create spark context
     sc = SparkContext(appName=name)
-     stopwords = open('/home/e01/stopwords.txt','r').read().splitlines()
+    stopwords = open('/home/e01/stopwords.txt','r').read().splitlines()
     #stopwords = sc.textFile('/home/e01/stopwords.txt').filter(lambda x: len(x)>2).collect()
 
     # OLD CODE #
